@@ -1,6 +1,0 @@
-!/bin/bash
-
-$ mkdir _posts
-$ cd _posts
-$ touch 2019-04-13-first-post.md
-$ vi 2019-04-13-first-post.md
